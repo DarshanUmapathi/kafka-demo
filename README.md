@@ -1,4 +1,4 @@
-# kafka-demo
+# Learn kafka with Spring Boot
 Kafka practice with CLI and SpringBoot App - Learning and Development
 
 
